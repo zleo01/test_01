@@ -7,3 +7,6 @@ h1:nth-of-type(3) {
 h1:nth-of-type(5) {
   background-color: skyblue;
 }
+h1:nth-of-type(7) {
+  background-color: green;
+}
